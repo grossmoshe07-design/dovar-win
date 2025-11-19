@@ -1,0 +1,1 @@
+print('This is a placeholder for app.py. Replace with your full code.')
